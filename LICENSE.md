@@ -1,4 +1,4 @@
-#  
+#  underground rivals Script offers the most advanced rivals Script, with auto-sell and auto-upgrade. Perfect for dominating any match.
 
 
 
